@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Profile</string>
+    <string name="title_section2">Experience</string>
+    <string name="title_section3">Education</string>
+    <string name="title_section4">Certifications</string>
+
+    <!-- Education -->
+    <string name="edu1school">Universitas Indonesia (UI)</string>
+    <string name="edu1dept">Master, Information Technology</string>
+    <string name="edu1year">2007 – 2009 \n</string>
+    <string name="edu2school">Institut Pertanian Bogor (IPB)</string>
+    <string name="edu2dept">Bachelor, Marine Science and Tech.</string>
+    <string name="edu2year">1998 – 2003</string>
+
+    <!-- Profile -->
+    <string name="imgdesc">Image desc</string>
+    <string name="profileTitle">Summary</string>
+    <string name="profileSum">        \n \n \n
+	•Having 10 years’s experience of software development \n
+	•Specializing in software design and development particularly Java/JEE Technology. \n
+	•Track record for hands on and team lead role for selective off shoring and on shoring activities. \n
+	•Able to work in a team or independently. \n
+	•Passion for knowledge exchange through discussion, teaching, and writing. \n \n</string>
+    <string name="profileConLabel">How to contact?</string>
+    <string name="profileEmail">mujoko.mujoko@gmail.com</string>
+    <string name="profileLangLabel">Languages</string>
+    <string name="profileLangDesc">English, Indonesia/Bahasa, Malay</string>
+
+    <!-- Education -->
+
+    <string name="exp1">Senior Software Engineer, Intigral. July 2013-Present</string>
+    <string name="desc1">        Spring planning and Gooooooo :) take and finish it :D \n</string>
+    <string name="exp2">Lead Engineer-Services APAC Openet. July 2012–June 2013</string>
+    <string name="desc2"> *To liaise with customer with regards project documentation  change request and delivery support\n
+    *Conduct User Acceptance Test \n 
+    *To solve any issue being raised through ticketing system (L3 support)  \n
+	*Develop system using TCL (DSD) and integrate with SGSN, CRM (EAI) , IN OCS and F5. \n
+	*Social Media Project for AXIS Telekom Indonesia (STC group)  Implement different QOS and rate charging for different URL accessed by subscriber  \n 
+	*On site and remote deployment. \n  \n</string>
+    <string name="exp3">Technical Leader, Reliable Business Technologies, Sdn. Bhd. June 2010-July 2012</string>
+    <string name="desc3">Involve in meter management project as technical leader. Meter management is a billing system for local call in telecom Malaysia (TM). My contributions are; \n
+	*Ceate FRS and SDD documents,  \n
+	*Design the system. The technologies involved are using Hibernate, Spring MVC, JBoss-drools (Rule engine) , Infinispan cache, LDAP, Crystal Report and Ext-JS \n
+	*Manage UAT session up to sign off by client (presenting the system to client in , managing to create user manual, SOP documents etc) \n
+	*Deployment into production using HP-UX server (Deployment management) \n
+	*Manage change request from client. \n
+	*Develop and involved in HRP (High Risk Profiling) system. Decision Support System to detect smuggling activity. Uses Hibernate, JBoss-drools (Rule engine), Ext-JS, Spring MVC, Spring Security). My contributions are creating FRS and SDS for the project and develop the application.  \n
+	*Portal for finance institution reporting to Central Bank. Uses Liferay and XBRL. \n \n </string>
+    <string name="exp4">Lead engineer, Converging Network Solution. June 2009–June 2010</string>
+    <string name="desc4">		*Manage project Client-Server where j2ee as server and mobile app acting as the client.\n
+		*Mobile advertising; Push advertising to registered android device. JSON format data exchange.  \n
+		Server side: Using JBoss Seam framework, plain java socket and REST base web service.
+		Client side: Android platform  \n
+		*Push mail android: Push mail to registered android device. JSON format data exchange.  \n
+		Server side: Using JBoss Seam framework, plain java socket and REST base web service.  \n
+		Client side: Android platform  \n  \n</string>
+    <string name="exp5">Software Developer, Lufthansa Systems Indonesia. October 2006–June 2009</string>
+    <string name="desc5">*Develop loyalty program (Frequent Flyer Program) using webwork \n
+   *hibernate 3, pico nano container, velocity, iReport. It is deployed on JBoss Application Server (production) \n 
+   *Develop reservation systems for low cost carrier using spring , jsf, hibernate 3, iReport, quartz scheduler, and JMS ActiveMQ \n \n</string>
+    <string name="exp6">Software Developer, AIT (Sigma Group)</string>
+    <string name="desc6">    *Developing a web based Customer Information File (CIF) Application for Trimegah Securities using struts, iReport, jsp and hibernate. \n
+	*Developing j2ee application for online trading using spring framework, Fix protocol with jms (SonicMQ) and java socket. It\'s deployed in JBoss application server. \n \n</string>
+    <string name="exp7">Designer and Developer, Vision03 (PT. Visi Gagas Komunika)</string>
+    <string name="exp8">Researcher and Youth Indonesian DelegationBorobudur Ship Ekspedition</string>
+    <string name="cert1">Sun Certified Java Programmer</string>
+    <string name="cert_year1">Sun Microsystems (2005) \n</string>
+    <string name="cert2">Sun Certified Web Component Developer</string>
+    <string name="cert_year2">Sun Microsystems (2006)</string>
+
+</resources>
